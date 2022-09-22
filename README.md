@@ -28,7 +28,7 @@ This repository contains projects from my master's program.
 
 ## Deep Learning (with Prince Lawson, Svenja Dobelmann: https://github.com/SvenjaDo)
 
-### Title of the project : Deep Learning For Tree Crown Detection.
+### Title : Deep Learning For Tree Crown Detection.
 
 ### Objective :  Detecting tree crowns from very high resolution RGB Drone Imagery using a Keras Deep Learning model.
 ### Description :
