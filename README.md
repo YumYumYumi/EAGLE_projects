@@ -26,7 +26,7 @@
 This repository contains projects from my master's program. 
 
 
-## Deep Learning (with Prince Lawson, Svenja Dobelmann)
+## Deep Learning (with Prince Lawson, Svenja Dobelmann: https://github.com/SvenjaDo)
 
 ### Title of the project : Deep Learning For Tree Crown Detection.
 
