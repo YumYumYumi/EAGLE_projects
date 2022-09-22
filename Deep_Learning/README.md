@@ -9,7 +9,7 @@ A simple U-net model architecture is imported and trained with our data (modelli
 
 ### Overview: 
 
-example data: (All uploaded in shared google drive)
+example data: (All uploaded in shared google drive: https://drive.google.com/drive/folders/109ACTIhEICOFI8oHCsHqpY2qr4P1Y4yZ?usp=sharing)
  - WingtraUniwald.tiff ->  UAV generated RGB Image to be predicted 
  - treeCrowns1.shp -> LiDAR derived tree crown shapes, used to generate training masks 
  - training_img_256 -> pre-processed RGB training tiles  
