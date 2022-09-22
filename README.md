@@ -21,7 +21,7 @@
 
 ## Introduction
 
-This repository contains projects from my master's program. 
+This repository contains projects during my master's program (2020 - current). 
 
 
 ## Deep Learning (with Prince Lawson, Svenja Dobelmann: https://github.com/SvenjaDo)
